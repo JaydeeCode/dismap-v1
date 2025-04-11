@@ -1,0 +1,24 @@
+@page{
+    size: A4;
+    margin: 0;
+}
+#print-btn{
+    display: none;
+    visibility: none;
+}
+#add-btn{
+    display: none;
+    visibility: none;
+}
+#act{
+    display: none;
+    visibility: none;
+}
+#act-con{
+    display: none;
+    visibility: none;
+}
+#back-btn{
+    display: none;
+    visibility: none;
+}
