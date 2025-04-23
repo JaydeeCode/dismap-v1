@@ -207,7 +207,7 @@ include ('../includes/topbar.php'); ?>
         </div>
         <div class="box">
           <div class="right-side">
-            <div class="box-topic">Chidlren</div>
+            <div class="box-topic">Children</div>
             <?php
                 $query = "SELECT SUM(children) as 'children' FROM barangay_data ";
 
