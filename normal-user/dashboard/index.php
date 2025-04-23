@@ -95,7 +95,7 @@ include ('../includes/topbar.php'); ?>
             ?>
             </div>
           </div>
-          <img src="../../images/population.webp">
+          <img src="../images/population.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -113,7 +113,7 @@ include ('../includes/topbar.php'); ?>
               ?>
               </div>
           </div>
-          <img src="../../images/male.webp">
+          <img src="../images/male.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -131,7 +131,7 @@ include ('../includes/topbar.php'); ?>
             ?>
             </div>
           </div>
-          <img src="../../images/female.webp">
+          <img src="../images/female.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -149,7 +149,7 @@ include ('../includes/topbar.php'); ?>
                   ?>
               </div>
           </div>
-          <img src="../../images/youth.webp">
+          <img src="../images/youth.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -167,7 +167,7 @@ include ('../includes/topbar.php'); ?>
             ?>
             </div>
           </div>
-          <img src="../../images/Senior Citizen.webp">
+          <img src="../images/senior-citizen.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -185,7 +185,7 @@ include ('../includes/topbar.php'); ?>
               ?>
               </div>
           </div>
-          <img src="../../images/pregnant.webp">
+          <img src="../images/pregnant.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -203,7 +203,7 @@ include ('../includes/topbar.php'); ?>
                   ?>
                 </div>
           </div>
-          <img src="../../images/pwd.webp">
+          <img src="../images/pwd.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -221,7 +221,7 @@ include ('../includes/topbar.php'); ?>
                 ?>
             </div>
           </div>
-          <img src="../../images/children.webp">
+          <img src="../images/children.svg">
         </div>
         <div class="box">
           <div class="right-side">
@@ -240,7 +240,7 @@ include ('../includes/topbar.php'); ?>
                   </div>
 
           </div>
-          <img src="../../images/evacuation center.webp">
+          <img src="../images/evacuations.svg">
         </div>
       </div>
 
